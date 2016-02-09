@@ -15,19 +15,19 @@ An early variant of Tic-tac-toe was played in the Roman Empire, around the first
 ## Code Base :smiling_imp:
 **What is used in the project**
 
-Type|Name
--|-
-Dependencies | `Bower` `npm`
-Scafolding | `Yeoman` `gulp-angular`
-Automatic tasks | `Gulp`
-MV Framework | `Angular`
-CSS Preprocessor | `SASS` (node version)
-CSS Library | `Angular Material`
-ES6 parser | `Babbel`
-Test Runner | `Karma`
-BDD | `Jasmine`
-linting | `ESlint`
-HTML markup | `Jade`
+| Type | Name |
+| ---- | ---- |
+| Dependencies | `Bower` `npm` |
+| Scafolding | `Yeoman` `gulp-angular` |
+| Automatic tasks | `Gulp` |
+| MV Framework | `Angular` |
+| CSS Preprocessor | `SASS` (node version) |
+| CSS Library | `Angular Material` |
+| ES6 parser | `Babbel` |
+| Test Runner | `Karma` |
+| BDD | `Jasmine` |
+| Linting | `ESlint` |
+| HTML markup | `Jade` |
 
 
 ## Notes :scroll:
